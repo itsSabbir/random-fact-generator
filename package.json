@@ -6,7 +6,6 @@
         "start": "node backend/server.js"
     },
     "dependencies": {
-        "express": "^4.17.1"
-        "TODO: Add other dependencies like axios, cheerio, mongoose, etc."
+        "express": "^4.18.2"
     }
 }
