@@ -1,0 +1,12 @@
+{
+    "name": "random-fact-generator",
+    "version": "1.0.0",
+    "description": "A web application to generate random facts.",
+    "scripts": {
+        "start": "node backend/server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+        "TODO: Add other dependencies like axios, cheerio, mongoose, etc."
+    }
+}
