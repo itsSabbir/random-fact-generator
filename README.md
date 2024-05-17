@@ -2,6 +2,8 @@
 
 The Random Fact Generator is a web application that provides users with random facts sourced from validated online platforms. It features web scraping, database integration, and AI-generated images.
 
+# NOTE: I will be pivoting to make this into an extension in the future.
+
 ## Current State
 
 The project is in its early stages of development. The foundational structure has been laid out, and several components have been implemented.
